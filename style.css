@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background-color:rgb(168, 228, 250);
+}
+.login_div1, .login_div2 {
+    padding:20px;
+    background-color:rgb(87, 176, 255);
+    border-radius:10px;
+    float:none;
+}
+.b {
+    background-color:rgb(151, 201, 245);
+    border-width:1.5px;
+    border-radius:5px;
+    float:none;
+}
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#button1 {
+    background-color:rgb(151, 201, 245);
+    border-width:1.5px;
+    border-radius:5px;
+    float:none;
+}
